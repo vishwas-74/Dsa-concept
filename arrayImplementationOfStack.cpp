@@ -55,5 +55,4 @@ int main(){
     cout<<st.top()<<endl;
     st.push(50);
     st.push(60);
-
 }

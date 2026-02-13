@@ -22,7 +22,6 @@ int main() {
        
         st.push(arr[i]);
     }
-     
     for(int x:nge){
         cout<<x<<" ";
     }
